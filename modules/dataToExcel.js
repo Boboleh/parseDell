@@ -7,19 +7,19 @@ async function writeDataToExcel(data, filePath) {
     await workbook.xlsx.readFile(filePath)
     const worksheet = workbook.getWorksheet(sheetName)
     worksheet.columns = [
-      {header: 'SKU', key: 'sku', width:15},
-      {header: 'URL', key: 'url', width:15},
-      {header: 'Family', key: 'family', width:15},
-      {header: 'Country', key: 'country', width:5},
-      {header: 'title', key: 'title', width:40},
-      {header: 'subtitle', key: 'subtitle', width:40},
-      {header: 'topDescription', key: 'topDescription', width:40},
-      {header: 'bottomDescription', key: 'bottomDescription', width:40},
-      {header: 'img', key: 'img', width:40},
-      {header: 'compatibility', key: 'compatibility', width:40}
+      { header: 'SKU', key: 'sku', width: 15 },
+      { header: 'URL', key: 'url', width: 15 },
+      { header: 'Family', key: 'family', width: 15 },
+      { header: 'Country', key: 'country', width: 5 },
+      { header: 'title', key: 'title', width: 40 },
+      { header: 'subtitle', key: 'subtitle', width: 40 },
+      { header: 'topDescription', key: 'topDescription', width: 40 },
+      { header: 'bottomDescription', key: 'bottomDescription', width: 40 },
+      { header: 'img', key: 'img', width: 40 },
+      { header: 'compatibility', key: 'compatibility', width: 40 }
     ]
-    await data.map((values,idx) => {
-      if(values){
+    await data.map((values, idx) => {
+      if (values) {
         worksheet.addRow({
           sku: values.sku,
           url: values.url,
@@ -37,8 +37,8 @@ async function writeDataToExcel(data, filePath) {
     await workbook.xlsx.writeFile(filePath)
     console.log(`File recording is complete! ${data.length} products recorded`)
   } catch (error) {
-      console.log(error)
-    }
+    console.log(error)
+  }
 }
 
 module.exports = {

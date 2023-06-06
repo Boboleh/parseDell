@@ -1,5 +1,5 @@
-const cheerio = require('cheerio')
-const axios = require('axios')
+import cheerio from 'cheerio'
+import axios from "axios"
 
 class Parser {
     constructor() {
