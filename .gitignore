@@ -1,0 +1,13 @@
+.env
+.idea
+.git
+package-lock.json
+.DS_Store
+node_modules
+input
+output
+result
+tempExampleDir
+# Distribution folder
+dist/
+input_screenshot/
