@@ -27,9 +27,11 @@ export async function getData(url, family, country, partNumber) {
     fullWidthDivs.each((i, div) => {
       const clonedDiv = $(div).clone()
       clonedDiv.find('*').each((j, elem) => {
-
         if (elem.tagName === 'strong') {
           elem.tagName = 'b'
+        }
+        if (elem.tagName.toLowerCase() === 'sup') {
+          $(elem).replaceWith($(elem).html()) // Заменяем <sup> его содержимым
         }
         const hasContent = $(elem).text().trim() !== '' || $(elem).children().length > 0
         if (!hasContent && elem.tagName.toLowerCase() !== 'br') {
@@ -44,7 +46,7 @@ export async function getData(url, family, country, partNumber) {
     if (compatibilityList.length > 2) {
       compatibility = compatibilityList.join('\n')
     }
-    const bottomText = textHtmlArr.join('\n').replace('<br><br><', '<')
+    const bottomText = textHtmlArr.join('<br>').replace('<br><br><', '<')
     let topText = textHtmlArr[0]
     const match = bottomText.match(/>(.*?)</s)
     if (match) {
@@ -53,7 +55,6 @@ export async function getData(url, family, country, partNumber) {
     // console.log('image:\n', imgSrc)
     // console.log('title:\n', h1Text)
     // console.log('compatibility\n', compatibility)
-    // console.log('all text\n', bottomText)
     // console.log('top text\n', topText)
 
     return { imgSrc, h1Text, topText, compatibility, bottomText }

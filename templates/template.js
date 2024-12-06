@@ -12,23 +12,23 @@ export const generalData = {
 export const translations = {
   it: {
     partString: 'N. Parte Dell',
-    compatibilityString: '<h4>Compatibilità</h4><br>Questo prodotto è compatibile con i sistemi seguenti:<br><br>'
+    compatibilityString: '<h4>Compatibilità</h4>Questo prodotto è compatibile con i sistemi seguenti:<br><br>'
   },
   es: {
     partString: 'Pieza De Dell',
-    compatibilityString: '<h4>Compatibilidad</h4><br>Este producto es compatible con los siguientes sistemas:<br><br>',
+    compatibilityString: '<h4>Compatibilidad</h4>Este producto es compatible con los siguientes sistemas:<br><br>',
   },
   uk: {
     partString: 'Dell Part',
-    compatibilityString: '<h4>Compatibility</h4><br>This product is compatible with the following systems:<br><br>'
+    compatibilityString: '<h4>Compatibility</h4>This product is compatible with the following systems:<br><br>'
   },
   fr: {
     partString: 'N° De Réf. Dell',
-    compatibilityString: '<h4>Compatibilité</h4><br>Ce produit est compatible avec les systèmes suivants :<br><br>'
+    compatibilityString: '<h4>Compatibilité</h4>Ce produit est compatible avec les systèmes suivants :<br><br>'
   },
   de: {
     partString: 'Dell Teil',
-    compatibilityString: '<h4>Kompatibilität</h4><br>Dieses Produkt ist mit den folgenden Systemen kompatibel:<br><br>'
+    compatibilityString: '<h4>Kompatibilität</h4>Dieses Produkt ist mit den folgenden Systemen kompatibel:<br><br>'
   }
 }
 
@@ -41,7 +41,17 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -63,7 +73,18 @@ export const hdd = {
           "value": "<h4>Media</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+
     },
     component_4: {
       data: {
@@ -81,7 +102,17 @@ export const hdd = {
           "value": "<h4>Perch&eacute; acquistare un upgrade Dell invece di un componente di terzi?</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -160,7 +191,17 @@ export const hdd = {
           "value": "<h4>Archiviazione SSD vs HDD</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_11: {
       data: {
@@ -239,7 +280,17 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -261,7 +312,17 @@ export const hdd = {
           "value": "<h4>Medios</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -277,13 +338,19 @@ export const hdd = {
         "text": {
           "type": "text",
           "value": "<h4>Por qu&eacute; deber&iacute;a comprar una actualizaci&oacute;n de Dell en lugar de la de un tercero?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -352,10 +419,6 @@ export const hdd = {
         "text": {
           "type": "text",
           "value": "<h4>&iquest;Por qu&eacute; elegir la unidades Dell?</h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Las unidades Dell son robustas, construidas bajo procesos de fabricaci&oacute;n premium y rigurosamente probadas para obtener la m&aacute;xima confiabilidad.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Especificamos y controlamos la fabricaci&oacute;n de los subcomponentes de hardware y firmware de nuestras unidades para garantizar la compatibilidad y agregar capacidad adicional para reducir los costos de mantenimiento.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">La confiabilidad del disco de Dell frecuentemente es mayor que la confiabilidad de otros proveedores de discos.</span></li>\n</ul>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
@@ -373,14 +436,20 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>SSD vs. HDD</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
+          "value": "<h4>SSD vs. HDD</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_11: {
       data: {
@@ -460,7 +529,17 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -482,7 +561,17 @@ export const hdd = {
           "value": "<h4>Media</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -497,14 +586,20 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Why should I buy a Dell Upgrades over a third-party part?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
+          "value": "<h4>Why should I buy a Dell Upgrades over a third-party part?</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -573,10 +668,6 @@ export const hdd = {
         "text": {
           "type": "text",
           "value": "<h4>Why choose Dell drives?</h4>\n<ul>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">Dell drives are robust, built by premium manufacturing processes and rigorously tested for maximum reliability.<br /><br /></span></li>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">We specify and control the manufacture of our drives&rsquo; firmware and hardware subcomponents to ensure compatibility and add additional capability to reduce the costs of maintenance.<br /><br /></span></li>\n<li style=\"color: #3e75fa;\"><span style=\"color: #000000;\">Dell&rsquo;s drive reliability frequently is higher than the reliability of other drive suppliers.</span></li>\n</ul>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
@@ -594,14 +685,20 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Solid State Drives vs. Hard Disk Drives</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
+          "value": "<h4>Solid State Drives vs. Hard Disk Drives</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_11: {
       data: {
@@ -681,7 +778,17 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -703,7 +810,17 @@ export const hdd = {
           "value": "<h4>Médias</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -718,11 +835,7 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Pourquoi devrais-je acheter une mise &agrave; niveau Dell plut&ocirc;t qu'une pi&egrave;ce tierce partie?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
+          "value": "<h4>Pourquoi devrais-je acheter une mise &agrave; niveau Dell plut&ocirc;t qu'une pi&egrave;ce tierce partie?</h4>"
         }
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
@@ -794,10 +907,6 @@ export const hdd = {
         "text": {
           "type": "text",
           "value": "<h4>Pourquoi choisir les disques Dell?</h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #0076cf;\"><span style=\"color: #000000;\">Les disques Dell sont robustes, construits selon des processus de fabrication de premi&egrave;re qualit&eacute; et rigoureusement test&eacute;s pour une fiabilit&eacute; maximale.</span><br /><br /></span></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Nous sp&eacute;cifions et contr&ocirc;lons la fabrication des sous-composants des micrologiciels et des mat&eacute;riels de nos disques pour assurer la compatibilit&eacute; et nous y int&eacute;grons des capacit&eacute;s suppl&eacute;mentaires pour r&eacute;duire les co&ucirc;ts de maintenance.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">La fiabilit&eacute; des disques durs Dell est souvent sup&eacute;rieure &agrave; celle des autres fournisseurs</span></li>\n</ul>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
@@ -816,13 +925,19 @@ export const hdd = {
         "text": {
           "type": "text",
           "value": "<h4>Disques SSD de stockage par rapport aux disques durs</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_11: {
       data: {
@@ -870,16 +985,11 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Types de disques de stockage</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Disques statiques &agrave; semiconducteurs SAS et SATA:</span></strong> <span style=\"color: #000000;\">Support de stockage rapide pour des entr&eacute;es/sorties al&eacute;atoires<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS 10K et 15K:</strong> <span style=\"color: #000000;\">Performance et disponibilit&eacute; pour des applications aux performances optimis&eacute;es<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS et SATA 7.2K:</strong> <span style=\"color: #000000;\">Haute capacit&eacute; et rapport prix/GB exceptionnel pour des applications optimis&eacute;es en termes de capacit&eacute;.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs d'entr&eacute;e:</strong> <span style=\"color: #000000;\">Les disques les moins chers utilis&eacute;s dans le cas d'applications n&eacute;cessitant une faible utilisation et un nombre total de disques limit&eacute;. En raison de leur restriction d'utilisation, ces disques sont disponibles dan un nombre limit&eacute; de syst&egrave;mes et de configurations.</span></span></li>\n</ul>",
-          "editable": true,
-          "required": false
+          "value": "<h4>Types de disques de stockage</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Disques statiques &agrave; semiconducteurs SAS et SATA:</span></strong> <span style=\"color: #000000;\">Support de stockage rapide pour des entr&eacute;es/sorties al&eacute;atoires<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS 10K et 15K:</strong> <span style=\"color: #000000;\">Performance et disponibilit&eacute; pour des applications aux performances optimis&eacute;es<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS et SATA 7.2K:</strong> <span style=\"color: #000000;\">Haute capacit&eacute; et rapport prix/GB exceptionnel pour des applications optimis&eacute;es en termes de capacit&eacute;.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs d'entr&eacute;e:</strong> <span style=\"color: #000000;\">Les disques les moins chers utilis&eacute;s dans le cas d'applications n&eacute;cessitant une faible utilisation et un nombre total de disques limit&eacute;. En raison de leur restriction d'utilisation, ces disques sont disponibles dan un nombre limit&eacute; de syst&egrave;mes et de configurations.</span></span></li>\n</ul>"
         },
         "image": {
           "type": "image",
-          "value": "https://story.icecat.biz/objects/886e2f2c4ec4eefda2ae5faadcfa06ae4421267b",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
+          "value": "https://story.icecat.biz/objects/886e2f2c4ec4eefda2ae5faadcfa06ae4421267b"
         }
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
@@ -902,7 +1012,17 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -924,7 +1044,17 @@ export const hdd = {
           "value": "<h4>Medien</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -939,42 +1069,38 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Warum ein Dell Upgrade Stelle eines Konkurrenzprodukts?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
+          "value": "<h4>Warum ein Dell Upgrade Stelle eines Konkurrenzprodukts?</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Gepr&uuml;fte und verifizierte Komponenten von Tier-1-OEM-Qualit&auml;t</span></h4>\nGew&auml;hrleisten Sie die Kompatibilit&auml;t mit Dell EM Servern, Speicher und Netzwerkprodukten",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/3fcc666246af3abf9b44f49002e65052db805bae",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Einfache Installation</span></h4>\nSparen Sie Zeit mit Dell EM Upgrades, die als Komplettkits mit Komponenten und Firmware geliefert werden",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -984,28 +1110,18 @@ export const hdd = {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Fokus auf sicherer Logistikkette</span></h4>\nSch&uuml;tzen Sie Systemdaten und Integrit&auml;t mit Komponenten aus einer sicheren Logistikkette",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/755f5b44d917eba05049d74b93dda52528e84683",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Tech Support Garantien von Dell</span></h4>\nErhalten Sie den technischen Support und die Garantien von Dell -- die bei Systemen mit Upgrades von anderen Herstellern nicht angeboten werden",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -1015,10 +1131,6 @@ export const hdd = {
         "text": {
           "type": "text",
           "value": "<h4>Warum sollten Sie Laufwerke von Dell w&auml;hlen?</h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Laufwerke von Dell sind robust, stammen aus erstklassigen Fertigungsprozessen und werden strengen Pr&uuml;fungen unterzogen, um maximale Zuverl&auml;ssigkeit zu gew&auml;hrleisen.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Wir spezifizieren und bestimmen die Herstellung der Firmware und Hardware-Subkomponenten unserer Laufwerke, um Kompatibilit&auml;t zu gew&auml;hrleisten, und f&uuml;gen weitere F&auml;higkeiten hinzu, um die Wartungkosten zu senken.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Die Laufwerke von Dell sind oft zuverl&auml;ssiger als die anderer Hersteller.</span></li>\n</ul>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
@@ -1037,52 +1149,45 @@ export const hdd = {
         "text": {
           "type": "text",
           "value": "<h4>SSDs vs. HDDs</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_11: {
       data: {
         "text1": {
           "type": "text",
           "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSDs</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Hervorragende Heschwindigkeit, hohe Leistung, Ein-/Ausgangsanforderungen</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Hochgradig zuverl&auml;ssig, weil keine sich drehende Festplatten vorhanden sind</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Durchlaufen einen anspruchsvollen Validierungsprozess, bevor sie als Erg&auml;nzung des PowerEdge-Serverportfolios in Betracht gezogen werden.</span></li>\n</ul>",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "",
-          "editable": true,
-          "required": false
         },
         "text2": {
           "type": "text",
           "value": "",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/ca9a40e28277e377679b9c00dc6cbb2178b49784",
-          "editable": true,
-          "required": false,
-          "isTransparent": true
         },
         "text3": {
           "type": "text",
           "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDDs</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Am besten als Teil einer umfassenden Speicherstrategie, die einen Ausgleich zwischen Kosten pro Gigabyte, Kapazit&auml;t, Anwendungsanforderungen und Leistung erzielt</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Geringeres Preis/Kapazit&auml;ts-Verh&auml;ltnis, das am besten f&uuml;r Arbeitsaufkommen oder Anwendungen mit viel Speicherbedarf f&uuml;r Daten wie Archive, Speichersicherungen, Bildbibliotheken oder Protokolle geeignet ist</span></li>\n</ul>",
-          "editable": true,
-          "required": false
         },
         "image3": {
           "type": "image",
           "value": "",
-          "editable": true,
-          "required": false
         }
       },
       petStoryComponentId: '628e8c3a2055a3088313230e'
@@ -1126,7 +1231,17 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -1148,7 +1263,17 @@ export const netwProc = {
           "value": "<h4>Media</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -1164,39 +1289,37 @@ export const netwProc = {
         "text": {
           "type": "text",
           "value": "<h4>Perch&eacute; acquistare un upgrade Dell invece di un componente di terzi?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Componenti di grado OEM Livello-1 testati e verificati</span></h4>\nAssicura la compatibilit&agrave; con server, archiviazione e rete Dell",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/3fcc666246af3abf9b44f49002e65052db805bae",
-          "editable": true,
-          "required": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Facile installazione</span></h4>\nRisparmia tempo con gli Upgrade Dell inviati in kit unitamente al necessario hardware e firmware",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
-          "editable": true,
-          "required": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -1206,28 +1329,18 @@ export const netwProc = {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Focalizzazione su una catena di fornitura sicura</span></h4>\nProteggi i dati e l'integrit&agrave; del sistema con componenti provenienti da una catena di fornitura sicura",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/755f5b44d917eba05049d74b93dda52528e84683",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Assistenza tecnica e Garanzie Dell</span></h4>\nMantieni l'assistenza tecnica e le garanzie Dell - che non supportano sistemi con upgrade di terzi",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -1281,7 +1394,17 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -1303,7 +1426,17 @@ export const netwProc = {
           "value": "<h4>Medios</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -1319,21 +1452,25 @@ export const netwProc = {
         "text": {
           "type": "text",
           "value": "<h4>Por qu&eacute; deber&iacute;a comprar una actualizaci&oacute;n de Dell en lugar de la de un tercero?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
@@ -1363,28 +1500,18 @@ export const netwProc = {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/755f5b44d917eba05049d74b93dda52528e84683",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Soporte T&eacute;cnico y Garant&iacute;as de Dell</span></h4>\nConserve el soporte t&eacute;cnico y las garant&iacute;as de Dell - que no son compatibles con sistemas con actualizaciones de terceros",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -1439,7 +1566,17 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -1461,7 +1598,17 @@ export const netwProc = {
           "value": "<h4>Media</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -1476,42 +1623,38 @@ export const netwProc = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Why should I buy a Dell Upgrades over a third-party part?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
+          "value": "<h4>Why should I buy a Dell Upgrades over a third-party part?</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Tested and Verified Tier-1 OEM-Grade Parts</span></h4>\nEnsure compatibility with Dell servers, storage and networking",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/3fcc666246af3abf9b44f49002e65052db805bae",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Ease of Installation</span></h4>\nSave time with Dell Upgrades that are shipped as kits with the necessary hardware and firmware.",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -1521,28 +1664,18 @@ export const netwProc = {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Secure Supply Chain Focus</span></h4>\nProtect system data and integrity with parts sourced from a secure supply chain",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/755f5b44d917eba05049d74b93dda52528e84683",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Dell Tech Support and Warranties</span></h4>\nPreserve Dell technical support and warranties&mdash;which do not support systems with third-party upgrades",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -1596,7 +1729,17 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -1618,7 +1761,17 @@ export const netwProc = {
           "value": "<h4>Médias</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -1634,21 +1787,25 @@ export const netwProc = {
         "text": {
           "type": "text",
           "value": "<h4>Pourquoi devrais-je acheter une mise &agrave; niveau Dell plut&ocirc;t qu'une pi&egrave;ce tierce partie?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Des pi&egrave;ces test&eacute;es et v&eacute;rifi&eacute;es de qualit&eacute; OEM de premier rang</span></h4>\nAssurez la compatibilit&eacute; avec les serveurs Dell, le stockage et la mise en r&eacute;seau.",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
@@ -1678,28 +1835,18 @@ export const netwProc = {
         "text1": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Accent mis sur la s&eacute;curisation de la cha&icirc;ne d'approvisionnement</span></h4>\nProt&eacute;gez les donn&eacute;es et l'int&eacute;grit&eacute; du syst&egrave;me avec des pi&egrave;ces provenant d'une cha&icirc;ne d'approvisionnement s&eacute;curis&eacute;e",
-          "editable": true,
-          "required": false
         },
         "image1": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/755f5b44d917eba05049d74b93dda52528e84683",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         },
         "text2": {
           "type": "text",
           "value": "<h4><span style=\"color: #0274c7;\">Support technique et garanties Dell</span></h4>\nPr&eacute;servez le support technique et les garanties Dell - qui ne prennent pas en charge les syst&egrave;mes avec des mises &agrave; niveau de parties tierces",
-          "editable": true,
-          "required": false
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e940c2055a308831323ae'
@@ -1753,7 +1900,17 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -1775,7 +1932,17 @@ export const netwProc = {
           "value": "<h4>Medien</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -1793,7 +1960,17 @@ export const netwProc = {
           "value": "<h4>Warum ein Dell Upgrade Stelle eines Konkurrenzprodukts?</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -1889,7 +2066,17 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -1911,7 +2098,17 @@ export const memory = {
           "value": "<h4>Media</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -1929,7 +2126,17 @@ export const memory = {
           "value": "<h4>Perché acquistare un upgrade Dell invece di un componente di terzi?</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -1989,7 +2196,17 @@ export const memory = {
           "value": "<h4>Tipi di DIMM di memoria</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_10: {
       data: {
@@ -2011,7 +2228,17 @@ export const memory = {
           "value": "<h4>Test di memoria</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_12: {
       data: {
@@ -2035,7 +2262,17 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -2057,7 +2294,17 @@ export const memory = {
           "value": "<h4>Medios</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -2075,7 +2322,17 @@ export const memory = {
           "value": "<h4>Por qué debería comprar una actualización de Dell en lugar de la de un tercero?</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -2135,7 +2392,17 @@ export const memory = {
           "value": "<h4>Tipos de DIMMS de Memoria</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_10: {
       data: {
@@ -2157,7 +2424,17 @@ export const memory = {
           "value": "<h4>Pruebas de Memoria</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_12: {
       data: {
@@ -2181,7 +2458,17 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -2203,7 +2490,17 @@ export const memory = {
           "value": "<h4>Media</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -2221,7 +2518,17 @@ export const memory = {
           "value": "<h4>Why should I buy a Dell Upgrades over a third-party part?</h4>"
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -2295,13 +2602,19 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Memory DIMM Types</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_10: {
       data: {
@@ -2325,27 +2638,29 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Memory Tests</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_12: {
       data: {
         "text": {
           "type": "text",
           "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Burn-in:</strong> <span style=\"color: #000000;\">Powered stress testing (i.e. increased temperature) to remove weak components.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Component Test:</strong> <span style=\"color: #000000;\">Memory vendor-specific diagnostic tests performed at DRAM component level to ensure functionality.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Module Test:</strong> <span style=\"color: #000000;\">Memory vendor-specific diagnostic tests performed at DIMM level to ensure functionality (with all DRAM components already mounted on DIMM PCB).</span></span></li>\n</ul>",
-          "editable": true,
-          "required": false
         },
         "image": {
           "type": "image",
           "value": "https://story.icecat.biz/images/4c90260706e57174a11813fdd0a4d329eec07a1f",
-          "editable": true,
-          "required": false
         }
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
@@ -2359,7 +2674,17 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -2381,7 +2706,17 @@ export const memory = {
           "value": "<h4>Médias</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -2397,13 +2732,19 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Pourquoi devrais-je acheter une mise à niveau Dell plutôt qu'une pièce tierce partie?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -2481,13 +2822,19 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Types de mémoires DIMM</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_10: {
       data: {
@@ -2511,28 +2858,29 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Tests de mémoire</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_12: {
       data: {
         "text": {
           "type": "text",
           "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Déverminage:</strong> <span style=\"color: #000000;\">Tests de contraintes avec mise sous tension (c. -à-d. augmentation de la température) pour éliminer les composants faibles.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Test de composants:</strong> <span style=\"color: #000000;\">Tests de diagnostic de mémoire spécifiques du fournisseur effectués au niveau des composants DRAM pour garantir la fonctionnalité.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Tests de modules:</strong> <span style=\"color: #000000;\">Tests de diagnostic de mémoire spécifiques du fournisseur effectués au niveau DIMM pour garantir la fonctionnalité (Avec tous les composants DRAM déjà montés sur DIMM PCB).</span></span></li>\n</ul>",
-          "editable": true,
-          "required": false
         },
         "image": {
           "type": "image",
           "value": "https://story.icecat.biz/images/4c90260706e57174a11813fdd0a4d329eec07a1f",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
@@ -2546,7 +2894,17 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_2: {
       data: {
@@ -2568,7 +2926,17 @@ export const memory = {
           "value": "<h4>Medien</h4>",
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_4: {
       data: {
@@ -2584,13 +2952,19 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Warum ein Dell Upgrade Stelle eines Konkurrenzprodukts?</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_6: {
       data: {
@@ -2668,13 +3042,19 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Arten von Speicher-DIMMs</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_10: {
       data: {
@@ -2698,28 +3078,29 @@ export const memory = {
         "text": {
           "type": "text",
           "value": "<h4>Arbeitsspeichertests</h4>",
-          "loader": false,
-          "maxLength": 10000,
-          "editable": true,
-          "required": false
         }
       },
-      petStoryComponentId: '628f29bd2055a3088313360d'
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
     },
     component_12: {
       data: {
         "text": {
           "type": "text",
           "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Burn-In:</strong> <span style=\"color: #000000;\">Stresstests bei eingeschaltetem Gerät (z. B. bei erhöhter Temperatur), um schwache Komponenten auszusortieren<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Komponententest:</strong> <span style=\"color: #000000;\">Diagnosetests speziell für den Hersteller des Arbeitsspeichers auf DRAM-Komponentenebene, um die Funktionalität zu gewährleisten<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Modultest:</strong> <span style=\"color: #000000;\">Diagnosetests speziell für den Hersteller des Arbeitsspeichers auf DIMM-Ebene, um die Funktionalität zu gewährleisten (Wobei alle DRAM-Komponenten bereits auf der DIMM-Platine montiert sind)</span></span></li>\n</ul>",
-          "editable": true,
-          "required": false
         },
         "image": {
           "type": "image",
           "value": "https://story.icecat.biz/images/4c90260706e57174a11813fdd0a4d329eec07a1f",
-          "editable": true,
-          "required": false,
-          "isTransparent": false
         }
       },
       petStoryComponentId: '628e8bd72055a308831322d6'

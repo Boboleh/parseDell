@@ -21,7 +21,7 @@ async function main(product) {
       // cpu    #1, 2, 4, 9, 10
       const snippet = product.snippet
       const translation = template.translations[product.country.toLowerCase()]
-      const compatibility = `${translation.compatibilityString}<br>${parsedData.compatibility}`
+      const compatibility = `${translation.compatibilityString}${parsedData.compatibility}`
       const data = template.generalData
       data.lang = product.language.toLowerCase()
       data.link = product.dellProductLink
@@ -30,7 +30,7 @@ async function main(product) {
       // 1
       data.components.component_1.data.text.value = `<h3>${parsedData.h1Text}</h3>`
       // 2
-      data.components.component_2.data.text.value = `<p>${translation.partString} ${product.partNumber}</p><br><p>${parsedData.topText}</p>`
+      data.components.component_2.data.text.value = `<p>${translation.partString} ${product.partNumber}</p><br>${parsedData.topText}`
       data.components.component_2.data.image.value = parsedData.imgSrc
       // 4
       data.components.component_4.data.image.value = parsedData.imgSrc
@@ -70,7 +70,7 @@ async function writeResult(errors) {
   const workBook = xlsx.utils.book_new()
   const workSheet = xlsx.utils.json_to_sheet(errors)
   xlsx.utils.book_append_sheet(workBook, workSheet, 'report')
-  xlsx.writeFile(workBook, './data/report/report.xlsx')
+  xlsx.writeFile(workBook, './report/report.xlsx')
   console.log('report is created')
 }
 
