@@ -27,9 +27,10 @@ export function readInput(filePath) {
       ['Country']: country,
       ['Snippet']: snippet,
       ['Language']: language,
+      ['Product Name']: productName
     } = data[i]
     const family = getFamily(data[i]['Family'])
-    collection.push({ snippet, family, partNumber, dellProductLink, country, language })
+    collection.push({ snippet, family, partNumber, dellProductLink, country, language, productName })
   }
   return collection
 }

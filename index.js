@@ -25,6 +25,7 @@ async function main(product) {
       const data = template.generalData
       data.lang = product.language.toLowerCase()
       data.link = product.dellProductLink
+      data.title = product.productName
       data.mpn = product.partNumber
       data.components = template[snippet][product.country.toLowerCase()]
       // 1
