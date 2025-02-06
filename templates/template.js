@@ -118,7 +118,7 @@ export const hdd = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Componenti di grado OEM Livello-1 testati e verificati</span></h4>\nAssicura la compatibilit&agrave; con server, archiviazione e rete Dell",
+          "value": "<h4><span style=\"color: #0274c7;\">Componenti di grado OEM Livello-1 testati e verificati</span></h4>\nAssicura la compatibilit&agrave; con server, archiviazione e rete Dell.",
         },
         "image1": {
           "type": "image",
@@ -126,20 +126,20 @@ export const hdd = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Facile installazione</span></h4>\nRisparmia tempo con gli Upgrade Dell inviati in kit unitamente al necessario hardware e firmware",
+          "value": "<h4><span style=\"color: #0274c7;\">Facile installazione</span></h4>\nRisparmia tempo con gli Upgrade Dell inviati in kit unitamente al necessario hardware e firmware.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa"
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Focalizzazione su una catena di fornitura sicura</span></h4>\nProteggi i dati e l'integrit&agrave; del sistema con componenti provenienti da una catena di fornitura sicura",
+          "value": "<h4><span style=\"color: #0274c7;\">Focalizzazione su una catena di fornitura sicura</span></h4>\nProteggi i dati e l'integrit&agrave; del sistema con componenti provenienti da una catena di fornitura sicura.",
           "editable": true,
           "required": false
         },
@@ -152,7 +152,7 @@ export const hdd = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Assistenza tecnica e Garanzie Dell</span></h4>\nMantieni l'assistenza tecnica e le garanzie Dell - che non supportano sistemi con upgrade di terzi",
+          "value": "<h4><span style=\"color: #0274c7;\">Assistenza tecnica e Garanzie Dell</span></h4>\nMantieni l'assistenza tecnica e le garanzie Dell - che non supportano sistemi con upgrade di terzi.",
           "editable": true,
           "required": false
         },
@@ -164,7 +164,7 @@ export const hdd = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -207,7 +207,7 @@ export const hdd = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSD</span></h4>\n<ul>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">Primeggia nei requisti di velocit&agrave;, elevate prestazioni, Input/Output<br /><br /></span></li>\n<li style=\"color: #0076cf; line-height: 1.2;\"><span style=\"color: #000000;\">Elevata affidabilit&agrave; dovuta alla mancanza di dischi rotanti<br /><br /></span></li>\n<li style=\"color: #0076cf; line-height: 1.2;\"><span style=\"color: #000000;\">Passano attraverso un rigoroso processo di validazione prima di essere considerati quali elementi aggiuntivi al portafoglio di server PowerEdge</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSD</span></h4>\n<ul>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">Primeggia nei requisti di velocit&agrave;, elevate prestazioni, Input/Output.<br /><br /></span></li>\n<li style=\"color: #0076cf; line-height: 1.2;\"><span style=\"color: #000000;\">Elevata affidabilit&agrave; dovuta alla mancanza di dischi rotanti.<br /><br /></span></li>\n<li style=\"color: #0076cf; line-height: 1.2;\"><span style=\"color: #000000;\">Passano attraverso un rigoroso processo di validazione prima di essere considerati quali elementi aggiuntivi al portafoglio di server PowerEdge.</span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -232,7 +232,7 @@ export const hdd = {
         },
         "text3": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDD</span></h4>\n<ul>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">Trovano impiego ideale se utilizzati come elementi di una strategia di archiviazione totale in grado di creare equilibrio tra costo per gigabyte, capacit&agrave;, esigenza di applicazione e performance<br /><br /></span></li>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">Migliore rapporto prezzo-capacit&agrave;, che pu&ograve; portare maggiori vantaggi per carichi di lavoro impegnativi o applicazioni che richiedono una grande quantit&agrave; di spazio di archiviazione dati, come archivi, backup di dischi, librerie di immagini o log</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDD</span></h4>\n<ul>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">Trovano impiego ideale se utilizzati come elementi di una strategia di archiviazione totale in grado di creare equilibrio tra costo per gigabyte, capacit&agrave;, esigenza di applicazione e performance.<br /><br /></span></li>\n<li style=\"color: #0076cf; line-height: 1.4;\"><span style=\"color: #000000;\">Migliore rapporto prezzo-capacit&agrave;, che pu&ograve; portare maggiori vantaggi per carichi di lavoro impegnativi o applicazioni che richiedono una grande quantit&agrave; di spazio di archiviazione dati, come archivi, backup di dischi, librerie di immagini o log.</span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -249,7 +249,7 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Tipi di drive di archiviazone</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Drive SAS a stato solido e drive SATA:</span></strong> <span style=\"color: #000000;\">Strumento di archiviazione veloce per IO casuale<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Hard drive SAS 10K e 15K:</strong> <span style=\"color: #000000;\">Performance e disponibilit&agrave; per applicazioni di massima performance<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Hard drive SATA e SAS 7.2K:</strong> <span style=\"color: #000000;\">Alta capacit&agrave; e rapporto costo/GB eccezionale per applicazioni di massima capacit&agrave;<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Entry drive:</strong> <span style=\"color: #000000;\">I drive meno costosi usati nelle applicazioni che richiedono un utilizzo ridotto e un numero totale limitato di drive. Date le restrizioni sull'uso, questi drive sono disponibili in quantit&agrave; ridotta di sistemi e configurazioni.</span></span></li>\n</ul>",
+          "value": "<h4>Tipi di drive di archiviazone</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Drive SAS a stato solido e drive SATA:</span></strong> <span style=\"color: #000000;\">Strumento di archiviazione veloce per IO casuale.<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Hard drive SAS 10K e 15K:</strong> <span style=\"color: #000000;\">Performance e disponibilit&agrave; per applicazioni di massima performance.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Hard drive SATA e SAS 7.2K:</strong> <span style=\"color: #000000;\">Alta capacit&agrave; e rapporto costo/GB eccezionale per applicazioni di massima capacit&agrave;.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Entry drive:</strong> <span style=\"color: #000000;\">I drive meno costosi usati nelle applicazioni che richiedono un utilizzo ridotto e un numero totale limitato di drive. Date le restrizioni sull'uso, questi drive sono disponibili in quantit&agrave; ridotta di sistemi e configurazioni.</span></span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -356,7 +356,7 @@ export const hdd = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell",
+          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell.",
           "editable": true,
           "required": false
         },
@@ -369,7 +369,7 @@ export const hdd = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">De f&aacute;cil instalaci&oacute;n</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se env&iacute;an como kits con el hardware y el firmware necesarios",
+          "value": "<h4><span style=\"color: #0274c7;\">De f&aacute;cil instalaci&oacute;n</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se env&iacute;an como kits con el hardware y el firmware necesarios.",
           "editable": true,
           "required": false
         },
@@ -381,13 +381,13 @@ export const hdd = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura",
+          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura.",
           "editable": true,
           "required": false
         },
@@ -400,7 +400,7 @@ export const hdd = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Soporte T&eacute;cnico y Garant&iacute;as de Dell</span></h4>\nConserve el soporte t&eacute;cnico y las garant&iacute;as de Dell - que no son compatibles con sistemas con actualizaciones de terceros",
+          "value": "<h4><span style=\"color: #0274c7;\">Soporte T&eacute;cnico y Garant&iacute;as de Dell</span></h4>\nConserve el soporte t&eacute;cnico y las garant&iacute;as de Dell - que no son compatibles con sistemas con actualizaciones de terceros.",
           "editable": true,
           "required": false
         },
@@ -412,7 +412,7 @@ export const hdd = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -455,7 +455,7 @@ export const hdd = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Supere la velocidad, alto rendimiento, requistos de Entrada/Salida</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Alta fiabilidad por la ausencia de discos giratorios</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Realice un riguroso proceso de validaci&oacute;n antes de considerarlas como adiciones a la cartera de servidores PowerEdge</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Supere la velocidad, alto rendimiento, requistos de Entrada/Salida.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Alta fiabilidad por la ausencia de discos giratorios.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Realice un riguroso proceso de validaci&oacute;n antes de considerarlas como adiciones a la cartera de servidores PowerEdge.</span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -480,7 +480,7 @@ export const hdd = {
         },
         "text3": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Es mejor cuando se usa como parte de una estragia de almacenamiento completa que equilibra el costo por gigabyte, la capacidad, las necesidades de las aplicaci&oacute;n y el rendimiento</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Menor precio por capacidad, lo que puede m&aacute;s beneficioso para cargas de trabajo de gran capacidad o aplicaciones que requieren grandes cantidades de almacenamiento para datos como archivos, copias de seguridad de discos, bibliotecas de im&aacute;genes o registros</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Es mejor cuando se usa como parte de una estragia de almacenamiento completa que equilibra el costo por gigabyte, la capacidad, las necesidades de las aplicaci&oacute;n y el rendimiento.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Menor precio por capacidad, lo que puede m&aacute;s beneficioso para cargas de trabajo de gran capacidad o aplicaciones que requieren grandes cantidades de almacenamiento para datos como archivos, copias de seguridad de discos, bibliotecas de im&aacute;genes o registros.</span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -497,7 +497,7 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Tipos de Unidades de Almacenamiento</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Unidades de Estado S&oacute;olido SAS y SATA:</span></strong> <span style=\"color: #000000;\">Medio de almacenamiento r&aacute;pido para E/S aleatorias<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Discos duros SAS 10K y 15K:</strong> <span style=\"color: #000000;\">Rendimiento y disponibilidad para aplicaciones optimizadas de rendimiento<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Discos duros SAS y SATA 7.2K:</strong> <span style=\"color: #000000;\">Alta capacidad y excepcional $/GB para aplizaziones de capacidad optimizada<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Unidades de Entrada:</strong> <span style=\"color: #000000;\">Las unidades menos costosas se utilizan en aplicaciones donde se aplica un bajo uso y un n&uacute;mero total limitado de unidades. Por las restricciones de uso, estas unidades est&aacute;n disponibles en una peque&ntilde;a cantidad de sistemas y configuraciones</span></span></li>\n</ul>",
+          "value": "<h4>Tipos de Unidades de Almacenamiento</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Unidades de Estado S&oacute;olido SAS y SATA:</span></strong> <span style=\"color: #000000;\">Medio de almacenamiento r&aacute;pido para E/S aleatorias.<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Discos duros SAS 10K y 15K:</strong> <span style=\"color: #000000;\">Rendimiento y disponibilidad para aplicaciones optimizadas de rendimiento.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Discos duros SAS y SATA 7.2K:</strong> <span style=\"color: #000000;\">Alta capacidad y excepcional $/GB para aplizaziones de capacidad optimizada.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Unidades de Entrada:</strong> <span style=\"color: #000000;\">Las unidades menos costosas se utilizan en aplicaciones donde se aplica un bajo uso y un n&uacute;mero total limitado de unidades. Por las restricciones de uso, estas unidades est&aacute;n disponibles en una peque&ntilde;a cantidad de sistemas y configuraciones.</span></span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -630,7 +630,7 @@ export const hdd = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
@@ -661,7 +661,7 @@ export const hdd = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -857,7 +857,7 @@ export const hdd = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Facilit&eacute; d'installation</span></h4>\nGagnez du temps avec les mises &agrave; niveau Dell livr&eacute;es sous forme de kits avec le mat&eacute;riel et le micrologiciel n&eacute;cessaires",
+          "value": "<h4><span style=\"color: #0274c7;\">Facilit&eacute; d'installation</span></h4>\nGagnez du temps avec les mises &agrave; niveau Dell livr&eacute;es sous forme de kits avec le mat&eacute;riel et le micrologiciel n&eacute;cessaires.",
           "editable": true,
           "required": false
         },
@@ -869,13 +869,13 @@ export const hdd = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Accent mis sur la s&eacute;curisation de la cha&icirc;ne d'approvisionnement</span></h4>\nProt&eacute;gez les donn&eacute;es et l'int&eacute;grit&eacute; du syst&egrave;me avec des pi&egrave;ces provenant d'une cha&icirc;ne d'approvisionnement s&eacute;curis&eacute;e",
+          "value": "<h4><span style=\"color: #0274c7;\">Accent mis sur la s&eacute;curisation de la cha&icirc;ne d'approvisionnement</span></h4>\nProt&eacute;gez les donn&eacute;es et l'int&eacute;grit&eacute; du syst&egrave;me avec des pi&egrave;ces provenant d'une cha&icirc;ne d'approvisionnement s&eacute;curis&eacute;e.",
           "editable": true,
           "required": false
         },
@@ -900,13 +900,13 @@ export const hdd = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Pourquoi choisir les disques Dell?</h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #0076cf;\"><span style=\"color: #000000;\">Les disques Dell sont robustes, construits selon des processus de fabrication de premi&egrave;re qualit&eacute; et rigoureusement test&eacute;s pour une fiabilit&eacute; maximale.</span><br /><br /></span></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Nous sp&eacute;cifions et contr&ocirc;lons la fabrication des sous-composants des micrologiciels et des mat&eacute;riels de nos disques pour assurer la compatibilit&eacute; et nous y int&eacute;grons des capacit&eacute;s suppl&eacute;mentaires pour r&eacute;duire les co&ucirc;ts de maintenance.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">La fiabilit&eacute; des disques durs Dell est souvent sup&eacute;rieure &agrave; celle des autres fournisseurs</span></li>\n</ul>",
+          "value": "<h4>Pourquoi choisir les disques Dell?</h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #0076cf;\"><span style=\"color: #000000;\">Les disques Dell sont robustes, construits selon des processus de fabrication de premi&egrave;re qualit&eacute; et rigoureusement test&eacute;s pour une fiabilit&eacute; maximale.</span><br /><br /></span></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Nous sp&eacute;cifions et contr&ocirc;lons la fabrication des sous-composants des micrologiciels et des mat&eacute;riels de nos disques pour assurer la compatibilit&eacute; et nous y int&eacute;grons des capacit&eacute;s suppl&eacute;mentaires pour r&eacute;duire les co&ucirc;ts de maintenance.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">La fiabilit&eacute; des disques durs Dell est souvent sup&eacute;rieure &agrave; celle des autres fournisseurs.</span></li>\n</ul>",
         }
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
@@ -924,7 +924,7 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Disques SSD de stockage par rapport aux disques durs</h4>",
+          "value": "<h4>Disques SSD de stockage par rapport aux disques durs.</h4>",
         }
       },
       petStoryComponentId: '628f29bd2055a3088313360d',
@@ -943,7 +943,7 @@ export const hdd = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Excellence en mati&egrave;re de vitesse, haute performance, exigences d'entr&eacute;e/sortie</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Grande fiabilit&eacute; du fait de l'absence de disques rotatifs</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Font l'objet d'un processus de validation rigoureux avant que leur ajout au portefeuille de serveurs PowerEdge soit pris en compte</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Excellence en mati&egrave;re de vitesse, haute performance, exigences d'entr&eacute;e/sortie.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Grande fiabilit&eacute; du fait de l'absence de disques rotatifs</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Font l'objet d'un processus de validation rigoureux avant que leur ajout au portefeuille de serveurs PowerEdge soit pris en compte.</span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -968,7 +968,7 @@ export const hdd = {
         },
         "text3": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #0076cf;\"><span style=\"color: #000000;\">Parfaits d'ils sont utilis&eacute;s dans le cadre d'une strat&eacute;gie de stoackage compl&egrave;te qui assure l'&eacute;quilibre entre co&ucirc;t par gigaoctet, capacit&eacute;, besoins en applications et performances.</span><br /><br /></span></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Un rapport prix/capicit&eacute; plus faible, ce qui peut &ecirc;tre particuli&egrave;rement avantageux pour les cahrges de travail de grande capacit&eacute; ou les applications n&eacute;cessitant de grandes quantit&eacute;s de stockage utilis&eacute;es pour les donn&eacute;es telles que les archives, les sauvegardes de siques, les biblioth&egrave;ques d'images ou les journaux</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #0076cf;\"><span style=\"color: #000000;\">Parfaits d'ils sont utilis&eacute;s dans le cadre d'une strat&eacute;gie de stoackage compl&egrave;te qui assure l'&eacute;quilibre entre co&ucirc;t par gigaoctet, capacit&eacute;, besoins en applications et performances.</span><br /><br /></span></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Un rapport prix/capicit&eacute; plus faible, ce qui peut &ecirc;tre particuli&egrave;rement avantageux pour les cahrges de travail de grande capacit&eacute; ou les applications n&eacute;cessitant de grandes quantit&eacute;s de stockage utilis&eacute;es pour les donn&eacute;es telles que les archives, les sauvegardes de siques, les biblioth&egrave;ques d'images ou les journaux.</span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -985,7 +985,7 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Types de disques de stockage</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Disques statiques &agrave; semiconducteurs SAS et SATA:</span></strong> <span style=\"color: #000000;\">Support de stockage rapide pour des entr&eacute;es/sorties al&eacute;atoires<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS 10K et 15K:</strong> <span style=\"color: #000000;\">Performance et disponibilit&eacute; pour des applications aux performances optimis&eacute;es<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS et SATA 7.2K:</strong> <span style=\"color: #000000;\">Haute capacit&eacute; et rapport prix/GB exceptionnel pour des applications optimis&eacute;es en termes de capacit&eacute;.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs d'entr&eacute;e:</strong> <span style=\"color: #000000;\">Les disques les moins chers utilis&eacute;s dans le cas d'applications n&eacute;cessitant une faible utilisation et un nombre total de disques limit&eacute;. En raison de leur restriction d'utilisation, ces disques sont disponibles dan un nombre limit&eacute; de syst&egrave;mes et de configurations.</span></span></li>\n</ul>"
+          "value": "<h4>Types de disques de stockage</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Disques statiques &agrave; semiconducteurs SAS et SATA:</span></strong> <span style=\"color: #000000;\">Support de stockage rapide pour des entr&eacute;es/sorties al&eacute;atoires.<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS 10K et 15K:</strong> <span style=\"color: #000000;\">Performance et disponibilit&eacute; pour des applications aux performances optimis&eacute;es.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs SAS et SATA 7.2K:</strong> <span style=\"color: #000000;\">Haute capacit&eacute; et rapport prix/GB exceptionnel pour des applications optimis&eacute;es en termes de capacit&eacute;.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Disques durs d'entr&eacute;e:</strong> <span style=\"color: #000000;\">Les disques les moins chers utilis&eacute;s dans le cas d'applications n&eacute;cessitant une faible utilisation et un nombre total de disques limit&eacute;. En raison de leur restriction d'utilisation, ces disques sont disponibles dan un nombre limit&eacute; de syst&egrave;mes et de configurations.</span></span></li>\n</ul>"
         },
         "image": {
           "type": "image",
@@ -1088,7 +1088,7 @@ export const hdd = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Gepr&uuml;fte und verifizierte Komponenten von Tier-1-OEM-Qualit&auml;t</span></h4>\nGew&auml;hrleisten Sie die Kompatibilit&auml;t mit Dell EM Servern, Speicher und Netzwerkprodukten",
+          "value": "<h4><span style=\"color: #0274c7;\">Gepr&uuml;fte und verifizierte Komponenten von Tier-1-OEM-Qualit&auml;t</span></h4>\nGew&auml;hrleisten Sie die Kompatibilit&auml;t mit Dell Servern, Speicher und Netzwerkprodukten.",
         },
         "image1": {
           "type": "image",
@@ -1096,20 +1096,20 @@ export const hdd = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Einfache Installation</span></h4>\nSparen Sie Zeit mit Dell EM Upgrades, die als Komplettkits mit Komponenten und Firmware geliefert werden",
+          "value": "<h4><span style=\"color: #0274c7;\">Einfache Installation</span></h4>\nSparen Sie Zeit mit Dell Upgrades, die als Komplettkits mit Komponenten und Firmware geliefert werden.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Fokus auf sicherer Logistikkette</span></h4>\nSch&uuml;tzen Sie Systemdaten und Integrit&auml;t mit Komponenten aus einer sicheren Logistikkette",
+          "value": "<h4><span style=\"color: #0274c7;\">Fokus auf sicherer Logistikkette</span></h4>\nSch&uuml;tzen Sie Systemdaten und Integrit&auml;t mit Komponenten aus einer sicheren Logistikkette.",
         },
         "image1": {
           "type": "image",
@@ -1117,14 +1117,14 @@ export const hdd = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Tech Support Garantien von Dell</span></h4>\nErhalten Sie den technischen Support und die Garantien von Dell -- die bei Systemen mit Upgrades von anderen Herstellern nicht angeboten werden",
+          "value": "<h4><span style=\"color: #0274c7;\">Tech Support Garantien von Dell</span></h4>\nErhalten Sie den technischen Support und die Garantien von Dell -- die bei Systemen mit Upgrades von anderen Herstellern nicht angeboten werden.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -1167,7 +1167,7 @@ export const hdd = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSDs</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Hervorragende Heschwindigkeit, hohe Leistung, Ein-/Ausgangsanforderungen</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Hochgradig zuverl&auml;ssig, weil keine sich drehende Festplatten vorhanden sind</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Durchlaufen einen anspruchsvollen Validierungsprozess, bevor sie als Erg&auml;nzung des PowerEdge-Serverportfolios in Betracht gezogen werden.</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSDs</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Hervorragende Heschwindigkeit, hohe Leistung, Ein-/Ausgangsanforderungen.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Hochgradig zuverl&auml;ssig, weil keine sich drehende Festplatten vorhanden sind.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Durchlaufen einen anspruchsvollen Validierungsprozess, bevor sie als Erg&auml;nzung des PowerEdge-Serverportfolios in Betracht gezogen werden.</span></li>\n</ul>",
         },
         "image1": {
           "type": "image",
@@ -1183,7 +1183,7 @@ export const hdd = {
         },
         "text3": {
           "type": "text",
-          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDDs</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Am besten als Teil einer umfassenden Speicherstrategie, die einen Ausgleich zwischen Kosten pro Gigabyte, Kapazit&auml;t, Anwendungsanforderungen und Leistung erzielt</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Geringeres Preis/Kapazit&auml;ts-Verh&auml;ltnis, das am besten f&uuml;r Arbeitsaufkommen oder Anwendungen mit viel Speicherbedarf f&uuml;r Daten wie Archive, Speichersicherungen, Bildbibliotheken oder Protokolle geeignet ist</span></li>\n</ul>",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDDs</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Am besten als Teil einer umfassenden Speicherstrategie, die einen Ausgleich zwischen Kosten pro Gigabyte, Kapazit&auml;t, Anwendungsanforderungen und Leistung erzielt.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Geringeres Preis/Kapazit&auml;ts-Verh&auml;ltnis, das am besten f&uuml;r Arbeitsaufkommen oder Anwendungen mit viel Speicherbedarf f&uuml;r Daten wie Archive, Speichersicherungen, Bildbibliotheken oder Protokolle geeignet ist.</span></li>\n</ul>",
         },
         "image3": {
           "type": "image",
@@ -1196,7 +1196,7 @@ export const hdd = {
       data: {
         "text": {
           "type": "text",
-          "value": "<h4>Arten von Speicherlaufwerken</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Solid-State SAS und SATA-Laufwerke:</span></strong> <span style=\"color: #000000;\">Schenlles Speichermedium f&uuml;r zuf&auml;llige E/A<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>10K- &amp; 15K-SAS-Festplatten:</strong> <span style=\"color: #000000;\">Performance und Verf&uuml;gbarkeit f&uuml;r leistungsoptimierte Anwendungen<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>7,2K-SAS &amp; SATA-Festplatten:</strong> <span style=\"color: #000000;\">Hohe Kapazit&auml;t und au&szlig;ergew&ouml;hnlich gutes Preis-/GB-Verh&auml;ltnis f&uuml;r kapazit&auml;tsoptimierte Anwendungen<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Laufwerke der Einstiegklasse:</strong> <span style=\"color: #000000;\">Die preiswertesten Laufwerke f&uuml;r Anwendungen mit geringer Nutzung, f&uuml;r de eine begrenzte Anzahl von LAufwerken angemessen ist. Aufgrund von Nutzungsbeschr&auml;nkungen sind diese Laufwerke in nur wenigen Systemen und Konfigurationen erh&auml;ltlich.</span></span></li>\n</ul>",
+          "value": "<h4>Arten von Speicherlaufwerken</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Solid-State SAS und SATA-Laufwerke:</span></strong> <span style=\"color: #000000;\">Schenlles Speichermedium f&uuml;r zuf&auml;llige E/A.<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>10K- &amp; 15K-SAS-Festplatten:</strong> <span style=\"color: #000000;\">Performance und Verf&uuml;gbarkeit f&uuml;r leistungsoptimierte Anwendungen.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>7,2K-SAS &amp; SATA-Festplatten:</strong> <span style=\"color: #000000;\">Hohe Kapazit&auml;t und au&szlig;ergew&ouml;hnlich gutes Preis-/GB-Verh&auml;ltnis f&uuml;r kapazit&auml;tsoptimierte Anwendungen.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Laufwerke der Einstiegklasse:</strong> <span style=\"color: #000000;\">Die preiswertesten Laufwerke f&uuml;r Anwendungen mit geringer Nutzung, f&uuml;r de eine begrenzte Anzahl von LAufwerken angemessen ist. Aufgrund von Nutzungsbeschr&auml;nkungen sind diese Laufwerke in nur wenigen Systemen und Konfigurationen erh&auml;ltlich.</span></span></li>\n</ul>",
           "editable": true,
           "required": false
         },
@@ -1307,7 +1307,7 @@ export const netwProc = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Componenti di grado OEM Livello-1 testati e verificati</span></h4>\nAssicura la compatibilit&agrave; con server, archiviazione e rete Dell",
+          "value": "<h4><span style=\"color: #0274c7;\">Componenti di grado OEM Livello-1 testati e verificati</span></h4>\nAssicura la compatibilit&agrave; con server, archiviazione e rete Dell.",
         },
         "image1": {
           "type": "image",
@@ -1315,20 +1315,20 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Facile installazione</span></h4>\nRisparmia tempo con gli Upgrade Dell inviati in kit unitamente al necessario hardware e firmware",
+          "value": "<h4><span style=\"color: #0274c7;\">Facile installazione</span></h4>\nRisparmia tempo con gli Upgrade Dell inviati in kit unitamente al necessario hardware e firmware.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Focalizzazione su una catena di fornitura sicura</span></h4>\nProteggi i dati e l'integrit&agrave; del sistema con componenti provenienti da una catena di fornitura sicura",
+          "value": "<h4><span style=\"color: #0274c7;\">Focalizzazione su una catena di fornitura sicura</span></h4>\nProteggi i dati e l'integrit&agrave; del sistema con componenti provenienti da una catena di fornitura sicura.",
         },
         "image1": {
           "type": "image",
@@ -1336,14 +1336,14 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Assistenza tecnica e Garanzie Dell</span></h4>\nMantieni l'assistenza tecnica e le garanzie Dell - che non supportano sistemi con upgrade di terzi",
+          "value": "<h4><span style=\"color: #0274c7;\">Assistenza tecnica e Garanzie Dell</span></h4>\nMantieni l'assistenza tecnica e le garanzie Dell - che non supportano sistemi con upgrade di terzi.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -1470,7 +1470,7 @@ export const netwProc = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell",
+          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell.",
         },
         "image1": {
           "type": "image",
@@ -1481,7 +1481,7 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">De f&aacute;cil instalaci&oacute;n</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se env&iacute;an como kits con el hardware y el firmware necesarios",
+          "value": "<h4><span style=\"color: #0274c7;\">De f&aacute;cil instalaci&oacute;n</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se env&iacute;an como kits con el hardware y el firmware necesarios.",
           "editable": true,
           "required": false
         },
@@ -1493,13 +1493,13 @@ export const netwProc = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura",
+          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura.",
         },
         "image1": {
           "type": "image",
@@ -1507,14 +1507,14 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Soporte T&eacute;cnico y Garant&iacute;as de Dell</span></h4>\nConserve el soporte t&eacute;cnico y las garant&iacute;as de Dell - que no son compatibles con sistemas con actualizaciones de terceros",
+          "value": "<h4><span style=\"color: #0274c7;\">Soporte T&eacute;cnico y Garant&iacute;as de Dell</span></h4>\nConserve el soporte t&eacute;cnico y las garant&iacute;as de Dell - que no son compatibles con sistemas con actualizaciones de terceros.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -1642,7 +1642,7 @@ export const netwProc = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Tested and Verified Tier-1 OEM-Grade Parts</span></h4>\nEnsure compatibility with Dell servers, storage and networking",
+          "value": "<h4><span style=\"color: #0274c7;\">Tested and Verified Tier-1 OEM-Grade Parts</span></h4>\nEnsure compatibility with Dell servers, storage and networking.",
         },
         "image1": {
           "type": "image",
@@ -1657,13 +1657,13 @@ export const netwProc = {
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Secure Supply Chain Focus</span></h4>\nProtect system data and integrity with parts sourced from a secure supply chain",
+          "value": "<h4><span style=\"color: #0274c7;\">Secure Supply Chain Focus</span></h4>\nProtect system data and integrity with parts sourced from a secure supply chain.",
         },
         "image1": {
           "type": "image",
@@ -1671,14 +1671,14 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Dell Tech Support and Warranties</span></h4>\nPreserve Dell technical support and warranties&mdash;which do not support systems with third-party upgrades",
+          "value": "<h4><span style=\"color: #0274c7;\">Dell Tech Support and Warranties</span></h4>\nPreserve Dell technical support and warranties&mdash;which do not support systems with third-party upgrades.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -1816,7 +1816,7 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Facilit&eacute; d'installation</span></h4>\nGagnez du temps avec les mises &agrave; niveau Dell livr&eacute;es sous forme de kits avec le mat&eacute;riel et le micrologiciel n&eacute;cessaires",
+          "value": "<h4><span style=\"color: #0274c7;\">Facilit&eacute; d'installation</span></h4>\nGagnez du temps avec les mises &agrave; niveau Dell livr&eacute;es sous forme de kits avec le mat&eacute;riel et le micrologiciel n&eacute;cessaires.",
           "editable": true,
           "required": false
         },
@@ -1828,13 +1828,13 @@ export const netwProc = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Accent mis sur la s&eacute;curisation de la cha&icirc;ne d'approvisionnement</span></h4>\nProt&eacute;gez les donn&eacute;es et l'int&eacute;grit&eacute; du syst&egrave;me avec des pi&egrave;ces provenant d'une cha&icirc;ne d'approvisionnement s&eacute;curis&eacute;e",
+          "value": "<h4><span style=\"color: #0274c7;\">Accent mis sur la s&eacute;curisation de la cha&icirc;ne d'approvisionnement</span></h4>\nProt&eacute;gez les donn&eacute;es et l'int&eacute;grit&eacute; du syst&egrave;me avec des pi&egrave;ces provenant d'une cha&icirc;ne d'approvisionnement s&eacute;curis&eacute;e.",
         },
         "image1": {
           "type": "image",
@@ -1842,14 +1842,14 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Support technique et garanties Dell</span></h4>\nPr&eacute;servez le support technique et les garanties Dell - qui ne prennent pas en charge les syst&egrave;mes avec des mises &agrave; niveau de parties tierces",
+          "value": "<h4><span style=\"color: #0274c7;\">Support technique et garanties Dell</span></h4>\nPr&eacute;servez le support technique et les garanties Dell - qui ne prennent pas en charge les syst&egrave;mes avec des mises &agrave; niveau de parties tierces.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -1976,7 +1976,7 @@ export const netwProc = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Gepr&uuml;fte und verifizierte Komponenten von Tier-1-OEM-Qualit&auml;t</span></h4>\nGew&auml;hrleisten Sie die Kompatibilit&auml;t mit Dell EM Servern, Speicher und Netzwerkprodukten",
+          "value": "<h4><span style=\"color: #0274c7;\">Gepr&uuml;fte und verifizierte Komponenten von Tier-1-OEM-Qualit&auml;t</span></h4>\nGew&auml;hrleisten Sie die Kompatibilit&auml;t mit Dell Servern, Speicher und Netzwerkprodukten.",
         },
         "image1": {
           "type": "image",
@@ -1984,20 +1984,20 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Einfache Installation</span></h4>\nSparen Sie Zeit mit Dell EM Upgrades, die als Komplettkits mit Komponenten und Firmware geliefert werden",
+          "value": "<h4><span style=\"color: #0274c7;\">Einfache Installation</span></h4>\nSparen Sie Zeit mit Dell Upgrades, die als Komplettkits mit Komponenten und Firmware geliefert werden.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Fokus auf sicherer Logistikkette</span></h4>\nSch&uuml;tzen Sie Systemdaten und Integrit&auml;t mit Komponenten aus einer sicheren Logistikkette",
+          "value": "<h4><span style=\"color: #0274c7;\">Fokus auf sicherer Logistikkette</span></h4>\nSch&uuml;tzen Sie Systemdaten und Integrit&auml;t mit Komponenten aus einer sicheren Logistikkette.",
         },
         "image1": {
           "type": "image",
@@ -2005,14 +2005,14 @@ export const netwProc = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Tech Support Garantien von Dell</span></h4>\nErhalten Sie den technischen Support und die Garantien von Dell -- die bei Systemen mit Upgrades von anderen Herstellern nicht angeboten werden",
+          "value": "<h4><span style=\"color: #0274c7;\">Tech Support Garantien von Dell</span></h4>\nErhalten Sie den technischen Support und die Garantien von Dell -- die bei Systemen mit Upgrades von anderen Herstellern nicht angeboten werden.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -2142,7 +2142,7 @@ export const memory = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Componenti di grado OEM Livello-1 testati e verificati</span></h4>\nAssicura la compatibilità con server, archiviazione e rete Dell",
+          "value": "<h4><span style=\"color: #0274c7;\">Componenti di grado OEM Livello-1 testati e verificati</span></h4>\nAssicura la compatibilità con server, archiviazione e rete Dell.",
         },
         "image1": {
           "type": "image",
@@ -2150,20 +2150,20 @@ export const memory = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Facile installazione</span></h4>\nRisparmia tempo con gli Upgrade Dell inviati in kit unitamente al necessario hardware e firmware",
+          "value": "<h4><span style=\"color: #0274c7;\">Facile installazione</span></h4>\nRisparmia tempo con gli Upgrade Dell inviati in kit unitamente al necessario hardware e firmware.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/images/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Focalizzazione su una catena di fornitura sicura</span></h4>\nProteggi i dati e l'integrità del sistema con componenti provenienti da una catena di fornitura sicura",
+          "value": "<h4><span style=\"color: #0274c7;\">Focalizzazione su una catena di fornitura sicura</span></h4>\nProteggi i dati e l'integrità del sistema con componenti provenienti da una catena di fornitura sicura.",
         },
         "image1": {
           "type": "image",
@@ -2171,14 +2171,14 @@ export const memory = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Assistenza tecnica e Garanzie Dell</span></h4>\nMantieni l'assistenza tecnica e le garanzie Dell - che non supportano sistemi con upgrade di terzi",
+          "value": "<h4><span style=\"color: #0274c7;\">Assistenza tecnica e Garanzie Dell</span></h4>\nMantieni l'assistenza tecnica e le garanzie Dell - che non supportano sistemi con upgrade di terzi.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/images/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -2244,7 +2244,7 @@ export const memory = {
       data: {
         "text": {
           "type": "text",
-          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Burn-in:</strong> <span style=\"color: #000000;\">Stress test alimentato da corrente (ossia, con aumento della termperatura) per rimuovere I componenti deboli<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Test component:</strong> <span style=\"color: #000000;\">Test diagnostici della memoria specifici del venditore effettuati a livello di componente DRAM per garantire la funzionalità<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Test modulo:</strong> <span style=\"color: #000000;\">Test diagnostici della memoria specifici del venditore effettuati a livello DIMM per garantire la funzionalità (Con tutti i componenti DRAM già montati su DIMM PCB)</span></span></li>\n</ul>",
+          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Burn-in:</strong> <span style=\"color: #000000;\">Stress test alimentato da corrente (ossia, con aumento della termperatura) per rimuovere I componenti deboli.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Test component:</strong> <span style=\"color: #000000;\">Test diagnostici della memoria specifici del venditore effettuati a livello di componente DRAM per garantire la funzionalità.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Test modulo:</strong> <span style=\"color: #000000;\">Test diagnostici della memoria specifici del venditore effettuati a livello DIMM per garantire la funzionalità (Con tutti i componenti DRAM già montati su DIMM PCB).</span></span></li>\n</ul>",
         },
         "image": {
           "type": "image",
@@ -2338,7 +2338,7 @@ export const memory = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell",
+          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell.",
         },
         "image1": {
           "type": "image",
@@ -2346,20 +2346,20 @@ export const memory = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">De fácil instalación</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se envían como kits con el hardware y el firmware necesarios",
+          "value": "<h4><span style=\"color: #0274c7;\">De fácil instalación</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se envían como kits con el hardware y el firmware necesarios.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/images/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura",
+          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura.",
         },
         "image1": {
           "type": "image",
@@ -2367,14 +2367,14 @@ export const memory = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Soporte Técnico y Garantías de Dell</span></h4>\nConserve el soporte técnico y las garantías de Dell - que no son compatibles con sistemas con actualizaciones de terceros",
+          "value": "<h4><span style=\"color: #0274c7;\">Soporte Técnico y Garantías de Dell</span></h4>\nConserve el soporte técnico y las garantías de Dell - que no son compatibles con sistemas con actualizaciones de terceros.",
         },
         "image2": {
           "type": "image",
           "value": "https://story.icecat.biz/images/19b67a0a9eda889d19330b256d5cc6ae795c4d16"
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -2408,7 +2408,7 @@ export const memory = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Con más memoria, el servidor puede leer, escribir y realizar datos e instrucciones más rápido.</span></h4>\nExisten tres tipos DIMMS de memoria disponsibles para servidores. Estos tipos de DIMMs no se pueden mezclar en un solo sistema. Debe seleccionar el tipo de DIMM apropiado para su carga de trabajo el momento de la compra",
+          "value": "<h4><span style=\"color: #0274c7;\">Con más memoria, el servidor puede leer, escribir y realizar datos e instrucciones más rápido.</span></h4>\nExisten tres tipos DIMMS de memoria disponsibles para servidores. Estos tipos de DIMMs no se pueden mezclar en un solo sistema. Debe seleccionar el tipo de DIMM apropiado para su carga de trabajo el momento de la compra.",
         },
         "text2": {
           "type": "text",
@@ -2440,7 +2440,7 @@ export const memory = {
       data: {
         "text": {
           "type": "text",
-          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Quemado:</strong> <span style=\"color: #000000;\">Pruebas de tensión mientras estén encendidas (es decir aumento de temperatura) para eliminar componentes deficientes.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Prueba de Componente:</strong> <span style=\"color: #000000;\">Pruebas de diagnóstico especificas del proveeder de memoria realizadas a nivel componente DRAM para garantizar la funcionalidad.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Prueba de Módulo:</strong> <span style=\"color: #000000;\">Pruebas de diagnóstico especificas del proveedor de memoria realizadas a nivel DIMM para garantizar la funcionalidad (Con todos los componentes DRAM ya montados en DIMM PCB)</span></span></li>\n</ul>",
+          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Quemado:</strong> <span style=\"color: #000000;\">Pruebas de tensión mientras estén encendidas (es decir aumento de temperatura) para eliminar componentes deficientes.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Prueba de Componente:</strong> <span style=\"color: #000000;\">Pruebas de diagnóstico especificas del proveeder de memoria realizadas a nivel componente DRAM para garantizar la funcionalidad.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Prueba de Módulo:</strong> <span style=\"color: #000000;\">Pruebas de diagnóstico especificas del proveedor de memoria realizadas a nivel DIMM para garantizar la funcionalidad (Con todos los componentes DRAM ya montados en DIMM PCB).</span></span></li>\n</ul>",
         },
         "image": {
           "type": "image",
@@ -2557,7 +2557,7 @@ export const memory = {
           "required": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
@@ -2586,7 +2586,7 @@ export const memory = {
           "required": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -2775,7 +2775,7 @@ export const memory = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
@@ -2806,7 +2806,7 @@ export const memory = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -2970,7 +2970,7 @@ export const memory = {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Geprüfte und verifizierte Komponenten von Tier-1-OEM-Qualität</span></h4>\nGewährleisten Sie die Kompatibilität mit Dell EM Servern, Speicher und Netzwerkprodukten",
+          "value": "<h4><span style=\"color: #0274c7;\">Geprüfte und verifizierte Komponenten von Tier-1-OEM-Qualität</span></h4>\nGewährleisten Sie die Kompatibilität mit Dell Servern, Speicher und Netzwerkprodukten.",
           "editable": true,
           "required": false
         },
@@ -2983,7 +2983,7 @@ export const memory = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Einfache Installation</span></h4>\nSparen Sie Zeit mit Dell EM Upgrades, die als Komplettkits mit Komponenten und Firmware geliefert werden",
+          "value": "<h4><span style=\"color: #0274c7;\">Einfache Installation</span></h4>\nSparen Sie Zeit mit Dell Upgrades, die als Komplettkits mit Komponenten und Firmware geliefert werden.",
           "editable": true,
           "required": false
         },
@@ -2995,13 +2995,13 @@ export const memory = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_7: {
       data: {
         "text1": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Fokus auf sicherer Logistikkette</span></h4>\nSchützen Sie Systemdaten und Integrität mit Komponenten aus einer sicheren Logistikkette",
+          "value": "<h4><span style=\"color: #0274c7;\">Fokus auf sicherer Logistikkette</span></h4>\nSchützen Sie Systemdaten und Integrität mit Komponenten aus einer sicheren Logistikkette.",
           "editable": true,
           "required": false
         },
@@ -3014,7 +3014,7 @@ export const memory = {
         },
         "text2": {
           "type": "text",
-          "value": "<h4><span style=\"color: #0274c7;\">Tech Support Garantien von Dell</span></h4>\nErhalten Sie den technischen Support und die Garantien von Dell -- die bei Systemen mit Upgrades von anderen Herstellern nicht angeboten werden",
+          "value": "<h4><span style=\"color: #0274c7;\">Tech Support Garantien von Dell</span></h4>\nErhalten Sie den technischen Support und die Garantien von Dell -- die bei Systemen mit Upgrades von anderen Herstellern nicht angeboten werden.",
           "editable": true,
           "required": false
         },
@@ -3026,7 +3026,7 @@ export const memory = {
           "isTransparent": false
         }
       },
-      petStoryComponentId: '628e940c2055a308831323ae'
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
     component_8: {
       data: {
@@ -3096,7 +3096,7 @@ export const memory = {
       data: {
         "text": {
           "type": "text",
-          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Burn-In:</strong> <span style=\"color: #000000;\">Stresstests bei eingeschaltetem Gerät (z. B. bei erhöhter Temperatur), um schwache Komponenten auszusortieren<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Komponententest:</strong> <span style=\"color: #000000;\">Diagnosetests speziell für den Hersteller des Arbeitsspeichers auf DRAM-Komponentenebene, um die Funktionalität zu gewährleisten<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Modultest:</strong> <span style=\"color: #000000;\">Diagnosetests speziell für den Hersteller des Arbeitsspeichers auf DIMM-Ebene, um die Funktionalität zu gewährleisten (Wobei alle DRAM-Komponenten bereits auf der DIMM-Platine montiert sind)</span></span></li>\n</ul>",
+          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Burn-In:</strong> <span style=\"color: #000000;\">Stresstests bei eingeschaltetem Gerät (z. B. bei erhöhter Temperatur), um schwache Komponenten auszusortieren.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Komponententest:</strong> <span style=\"color: #000000;\">Diagnosetests speziell für den Hersteller des Arbeitsspeichers auf DRAM-Komponentenebene, um die Funktionalität zu gewährleisten.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Modultest:</strong> <span style=\"color: #000000;\">Diagnosetests speziell für den Hersteller des Arbeitsspeichers auf DIMM-Ebene, um die Funktionalität zu gewährleisten (Wobei alle DRAM-Komponenten bereits auf der DIMM-Platine montiert sind).</span></span></li>\n</ul>",
         },
         "image": {
           "type": "image",
