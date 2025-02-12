@@ -243,7 +243,7 @@ export const hdd = {
           "required": false
         }
       },
-      petStoryComponentId: '628e8c3a2055a3088313230e'
+      petStoryComponentId: '6703df5041fd3dfcaf1894db'
     },
     component_12: {
       data: {
@@ -491,7 +491,7 @@ export const hdd = {
           "required": false
         }
       },
-      petStoryComponentId: '628e8c3a2055a3088313230e'
+      petStoryComponentId: '6703df5041fd3dfcaf1894db'
     },
     component_12: {
       data: {
@@ -524,6 +524,24 @@ export const hdd = {
   uk: {
     component_1: {
       data: {
+        "image": {
+          "type": "image",
+          "editable": false,
+          "defaultValue": "/__img/constructor/2023/WFH_enterprise_accessory.png",
+          "required": false,
+          "value": "",
+          "sizes": [
+            {
+              "maxWidth": 767,
+              "value": ""
+            }
+          ]
+        }
+      },
+      petStoryComponentId: '656f3142c1cbdbe58f212981'
+    },
+    component_2: {
+      data: {
         "text": {
           "type": "text",
           "value": "",
@@ -541,7 +559,7 @@ export const hdd = {
         }
       ]
     },
-    component_2: {
+    component_3: {
       data: {
         "text": {
           "type": "text",
@@ -554,7 +572,7 @@ export const hdd = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
-    component_3: {
+    component_4: {
       data: {
         "text": {
           "type": "text",
@@ -573,7 +591,7 @@ export const hdd = {
         }
       ]
     },
-    component_4: {
+    component_5: {
       data: {
         "image": {
           "type": "image",
@@ -582,7 +600,7 @@ export const hdd = {
       },
       petStoryComponentId: '628e892bb727fbdbc89f3a78'
     },
-    component_5: {
+    component_6: {
       data: {
         "text": {
           "type": "text",
@@ -601,7 +619,7 @@ export const hdd = {
         }
       ]
     },
-    component_6: {
+    component_7: {
       data: {
         "text1": {
           "type": "text",
@@ -632,7 +650,7 @@ export const hdd = {
       },
       petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
-    component_7: {
+    component_8: {
       data: {
         "text1": {
           "type": "text",
@@ -663,7 +681,7 @@ export const hdd = {
       },
       petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
-    component_8: {
+    component_9: {
       data: {
         "text": {
           "type": "text",
@@ -672,7 +690,7 @@ export const hdd = {
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
     },
-    component_9: {
+    component_10: {
       data: {
         "text": {
           "type": "text",
@@ -681,7 +699,7 @@ export const hdd = {
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
     },
-    component_10: {
+    component_11: {
       data: {
         "text": {
           "type": "text",
@@ -700,7 +718,7 @@ export const hdd = {
         }
       ]
     },
-    component_11: {
+    component_12: {
       data: {
         "text1": {
           "type": "text",
@@ -740,9 +758,9 @@ export const hdd = {
           "required": false
         }
       },
-      petStoryComponentId: '628e8c3a2055a3088313230e'
+      petStoryComponentId: '6703df5041fd3dfcaf1894db'
     },
-    component_12: {
+    component_13: {
       data: {
         "text": {
           "type": "text",
@@ -760,7 +778,7 @@ export const hdd = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
-    component_13: {
+    component_14: {
       data: {
         "text": {
           "type": "text",
@@ -979,7 +997,7 @@ export const hdd = {
           "required": false
         }
       },
-      petStoryComponentId: '628e8c3a2055a3088313230e'
+      petStoryComponentId: '6703df5041fd3dfcaf1894db'
     },
     component_12: {
       data: {
@@ -1190,7 +1208,7 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e8c3a2055a3088313230e'
+      petStoryComponentId: '6703df5041fd3dfcaf1894db'
     },
     component_12: {
       data: {
@@ -1561,6 +1579,24 @@ export const netwProc = {
   uk: {
     component_1: {
       data: {
+        "image": {
+          "type": "image",
+          "editable": false,
+          "defaultValue": "/__img/constructor/2023/WFH_enterprise_accessory.png",
+          "required": false,
+          "value": "",
+          "sizes": [
+            {
+              "maxWidth": 767,
+              "value": ""
+            }
+          ]
+        }
+      },
+      petStoryComponentId: '656f3142c1cbdbe58f212981'
+    },
+    component_2: {
+      data: {
         "text": {
           "type": "text",
           "value": "",
@@ -1578,7 +1614,7 @@ export const netwProc = {
         }
       ]
     },
-    component_2: {
+    component_3: {
       data: {
         "text": {
           "type": "text",
@@ -1591,7 +1627,7 @@ export const netwProc = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
-    component_3: {
+    component_4: {
       data: {
         "text": {
           "type": "text",
@@ -1610,7 +1646,7 @@ export const netwProc = {
         }
       ]
     },
-    component_4: {
+    component_5: {
       data: {
         "image": {
           "type": "image",
@@ -1619,7 +1655,7 @@ export const netwProc = {
       },
       petStoryComponentId: '628e892bb727fbdbc89f3a78'
     },
-    component_5: {
+    component_6: {
       data: {
         "text": {
           "type": "text",
@@ -1638,7 +1674,7 @@ export const netwProc = {
         }
       ]
     },
-    component_6: {
+    component_7: {
       data: {
         "text1": {
           "type": "text",
@@ -1659,7 +1695,7 @@ export const netwProc = {
       },
       petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
-    component_7: {
+    component_8: {
       data: {
         "text1": {
           "type": "text",
@@ -1680,7 +1716,7 @@ export const netwProc = {
       },
       petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
-    component_8: {
+    component_9: {
       data: {
         "video": {
           "type": "video",
@@ -1702,7 +1738,7 @@ export const netwProc = {
         }
       ]
     },
-    component_9: {
+    component_10: {
       data: {
         "text": {
           "type": "text",
@@ -1711,7 +1747,7 @@ export const netwProc = {
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
     },
-    component_10: {
+    component_11: {
       data: {
         "text": {
           "type": "text",
@@ -2453,6 +2489,24 @@ export const memory = {
   uk: {
     component_1: {
       data: {
+        "image": {
+          "type": "image",
+          "editable": false,
+          "defaultValue": "/__img/constructor/2023/WFH_enterprise_accessory.png",
+          "required": false,
+          "value": "",
+          "sizes": [
+            {
+              "maxWidth": 767,
+              "value": ""
+            }
+          ]
+        }
+      },
+      petStoryComponentId: '656f3142c1cbdbe58f212981'
+    },
+    component_2: {
+      data: {
         "text": {
           "type": "text",
           "value": "",
@@ -2470,7 +2524,7 @@ export const memory = {
         }
       ]
     },
-    component_2: {
+    component_3: {
       data: {
         "text": {
           "type": "text",
@@ -2483,7 +2537,7 @@ export const memory = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
-    component_3: {
+    component_4: {
       data: {
         "text": {
           "type": "text",
@@ -2502,7 +2556,7 @@ export const memory = {
         }
       ]
     },
-    component_4: {
+    component_5: {
       data: {
         "image": {
           "type": "image",
@@ -2511,7 +2565,7 @@ export const memory = {
       },
       petStoryComponentId: '628e892bb727fbdbc89f3a78'
     },
-    component_5: {
+    component_6: {
       data: {
         "text": {
           "type": "text",
@@ -2530,7 +2584,7 @@ export const memory = {
         }
       ]
     },
-    component_6: {
+    component_7: {
       data: {
         "text1": {
           "type": "text",
@@ -2559,7 +2613,7 @@ export const memory = {
       },
       petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
-    component_7: {
+    component_8: {
       data: {
         "text1": {
           "type": "text",
@@ -2588,7 +2642,7 @@ export const memory = {
       },
       petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
     },
-    component_8: {
+    component_9: {
       data: {
         "text": {
           "type": "text",
@@ -2597,7 +2651,7 @@ export const memory = {
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
     },
-    component_9: {
+    component_10: {
       data: {
         "text": {
           "type": "text",
@@ -2616,7 +2670,7 @@ export const memory = {
         }
       ]
     },
-    component_10: {
+    component_11: {
       data: {
         "text1": {
           "type": "text",
@@ -2633,7 +2687,7 @@ export const memory = {
       },
       petStoryComponentId: '633b054c8356651ec5fffd64'
     },
-    component_11: {
+    component_12: {
       data: {
         "text": {
           "type": "text",
@@ -2652,7 +2706,7 @@ export const memory = {
         }
       ]
     },
-    component_12: {
+    component_13: {
       data: {
         "text": {
           "type": "text",
