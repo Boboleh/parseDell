@@ -24,6 +24,9 @@ async function main(product) {
       const translation = template.translations[product.country.toLowerCase()]
       const compatibility = `${translation.compatibilityString}${parsedData.compatibility}`
       data.lang = product.language.toLowerCase()
+      if(product.country.toLowerCase() === 'mx') {
+        data.lang = 'es_mx'
+      }
       data.link = product.dellProductLink
       data.title = product.productName
       data.mpn = product.partNumber
@@ -48,6 +51,7 @@ async function main(product) {
           case 'memory':
             if (parsedData.compatibility) data.components.component_9.data.text.value = compatibility
             else delete data.components.component_9
+            data.components.component_14.data.text.value = parsedData.bottomText
             break
           case 'netwProc':
             if (parsedData.compatibility) data.components.component_10.data.text.value = compatibility
@@ -72,6 +76,7 @@ async function main(product) {
           case 'memory':
             if (parsedData.compatibility) data.components.component_8.data.text.value = compatibility
             else delete data.components.component_8
+            data.components.component_13.data.text.value = parsedData.bottomText
             break
           case 'netwProc':
             if (parsedData.compatibility) data.components.component_9.data.text.value = compatibility
@@ -81,7 +86,7 @@ async function main(product) {
         }
       }
       const output = JSON.stringify(data, null, 2)
-      await fs.writeFile(`${path.resolve('./output')}/${product.partNumber}_${product.language.toLowerCase()}.json`, output, 'utf8')
+      await fs.writeFile(`${path.resolve('./output')}/${product.partNumber}_${product.country.toLowerCase()}.json`, output, 'utf8')
       result.push({
         sku: product.partNumber,
         url: product.dellProductLink,

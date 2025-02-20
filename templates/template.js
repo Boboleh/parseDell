@@ -29,7 +29,11 @@ export const translations = {
   de: {
     partString: 'Dell Teil',
     compatibilityString: '<h4>Kompatibilität</h4>Dieses Produkt ist mit den folgenden Systemen kompatibel:<br><br>'
-  }
+  },
+  mx: {
+    partString: 'Pieza De Dell',
+    compatibilityString: '<h4>Compatibilidad</h4>Este producto es compatible con los siguientes sistemas:<br><br>',
+  },
 }
 
 export const hdd = {
@@ -93,7 +97,7 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -331,7 +335,7 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -598,7 +602,7 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_6: {
       data: {
@@ -847,7 +851,7 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -1081,7 +1085,7 @@ export const hdd = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -1237,7 +1241,256 @@ export const hdd = {
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
     }
-  }
+  },
+  mx: {
+    component_1: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_2: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        },
+        "image": {
+          "type": "image",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628e8bd72055a308831322d6'
+    },
+    component_3: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Medios</h4>",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_4: {
+      data: {
+        "image": {
+          "type": "image",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '633bd7038356651ec5000b93'
+    },
+    component_5: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Por qu&eacute; deber&iacute;a comprar una actualizaci&oacute;n de Dell en lugar de la de un tercero?</h4>",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_6: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell.",
+          "editable": true,
+          "required": false
+        },
+        "image1": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/3fcc666246af3abf9b44f49002e65052db805bae",
+          "editable": true,
+          "required": false,
+          "isTransparent": false
+        },
+        "text2": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">De f&aacute;cil instalaci&oacute;n</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se env&iacute;an como kits con el hardware y el firmware necesarios.",
+          "editable": true,
+          "required": false
+        },
+        "image2": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
+          "editable": true,
+          "required": false,
+          "isTransparent": false
+        }
+      },
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
+    },
+    component_7: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura.",
+          "editable": true,
+          "required": false
+        },
+        "image1": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/755f5b44d917eba05049d74b93dda52528e84683",
+          "editable": true,
+          "required": false,
+          "isTransparent": false
+        },
+        "text2": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Soporte T&eacute;cnico y Garant&iacute;as de Dell</span></h4>\nConserve el soporte t&eacute;cnico y las garant&iacute;as de Dell - que no son compatibles con sistemas con actualizaciones de terceros.",
+          "editable": true,
+          "required": false
+        },
+        "image2": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
+          "editable": true,
+          "required": false,
+          "isTransparent": false
+        }
+      },
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
+    },
+    component_8: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>&iquest;Por qu&eacute; elegir la unidades Dell?</h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Las unidades Dell son robustas, construidas bajo procesos de fabricaci&oacute;n premium y rigurosamente probadas para obtener la m&aacute;xima confiabilidad.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Especificamos y controlamos la fabricaci&oacute;n de los subcomponentes de hardware y firmware de nuestras unidades para garantizar la compatibilidad y agregar capacidad adicional para reducir los costos de mantenimiento.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">La confiabilidad del disco de Dell frecuentemente es mayor que la confiabilidad de otros proveedores de discos.</span></li>\n</ul>",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d'
+    },
+    component_9: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d'
+    },
+    component_10: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>SSD vs. HDD</h4>"
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_11: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">SSD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Supere la velocidad, alto rendimiento, requistos de Entrada/Salida.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Alta fiabilidad por la ausencia de discos giratorios.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Realice un riguroso proceso de validaci&oacute;n antes de considerarlas como adiciones a la cartera de servidores PowerEdge.</span></li>\n</ul>",
+          "editable": true,
+          "required": false
+        },
+        "image1": {
+          "type": "image",
+          "value": "",
+          "editable": true,
+          "required": false
+        },
+        "text2": {
+          "type": "text",
+          "value": "",
+          "editable": true,
+          "required": false
+        },
+        "image2": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/92d8046826a046caf04795e38939eeb3eff3f7f8",
+          "editable": true,
+          "required": false,
+          "isTransparent": true
+        },
+        "text3": {
+          "type": "text",
+          "value": "<h4 style=\"text-align: center;\"><span style=\"color: #0274c7;\">HDD</span></h4>\n<ul>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Es mejor cuando se usa como parte de una estragia de almacenamiento completa que equilibra el costo por gigabyte, la capacidad, las necesidades de las aplicaci&oacute;n y el rendimiento.</span><br /><br /></li>\n<li style=\"color: #0076cf;\"><span style=\"color: #000000;\">Menor precio por capacidad, lo que puede m&aacute;s beneficioso para cargas de trabajo de gran capacidad o aplicaciones que requieren grandes cantidades de almacenamiento para datos como archivos, copias de seguridad de discos, bibliotecas de im&aacute;genes o registros.</span></li>\n</ul>",
+          "editable": true,
+          "required": false
+        },
+        "image3": {
+          "type": "image",
+          "value": "",
+          "editable": true,
+          "required": false
+        }
+      },
+      petStoryComponentId: '6703df5041fd3dfcaf1894db'
+    },
+    component_12: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Tipos de Unidades de Almacenamiento</h4>\n<ul>\n<li style=\"color: #0274c7; line-height: 1.3;\"><strong><span style=\"color: #0274c7;\">Unidades de Estado S&oacute;olido SAS y SATA:</span></strong> <span style=\"color: #000000;\">Medio de almacenamiento r&aacute;pido para E/S aleatorias.<br /><br /></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Discos duros SAS 10K y 15K:</strong> <span style=\"color: #000000;\">Rendimiento y disponibilidad para aplicaciones optimizadas de rendimiento.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Discos duros SAS y SATA 7.2K:</strong> <span style=\"color: #000000;\">Alta capacidad y excepcional $/GB para aplizaziones de capacidad optimizada.<br /><br /></span></span></li>\n<li style=\"color: #0274c7; line-height: 1.3;\"><span style=\"color: #0274c7;\"><strong>Unidades de Entrada:</strong> <span style=\"color: #000000;\">Las unidades menos costosas se utilizan en aplicaciones donde se aplica un bajo uso y un n&uacute;mero total limitado de unidades. Por las restricciones de uso, estas unidades est&aacute;n disponibles en una peque&ntilde;a cantidad de sistemas y configuraciones.</span></span></li>\n</ul>",
+          "editable": true,
+          "required": false
+        },
+        "image": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/886e2f2c4ec4eefda2ae5faadcfa06ae4421267b",
+          "editable": true,
+          "required": false,
+          "isTransparent": false
+        }
+      },
+      petStoryComponentId: '628e8bd72055a308831322d6'
+    },
+    component_13: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d'
+    }
+  },
 }
 
 export const netwProc = {
@@ -1300,7 +1553,7 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -1463,7 +1716,7 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -1653,7 +1906,7 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_6: {
       data: {
@@ -1816,7 +2069,7 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -1987,7 +2240,7 @@ export const netwProc = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -2090,7 +2343,179 @@ export const netwProc = {
       },
       petStoryComponentId: '628f29bd2055a3088313360d'
     }
-  }
+  },
+  mx: {
+    component_1: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_2: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        },
+        "image": {
+          "type": "image",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628e8bd72055a308831322d6'
+    },
+    component_3: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Medios</h4>",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_4: {
+      data: {
+        "image": {
+          "type": "image",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '633bd7038356651ec5000b93'
+    },
+    component_5: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Por qu&eacute; deber&iacute;a comprar una actualizaci&oacute;n de Dell en lugar de la de un tercero?</h4>",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_6: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell.",
+        },
+        "image1": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/3fcc666246af3abf9b44f49002e65052db805bae",
+          "editable": true,
+          "required": false,
+          "isTransparent": false
+        },
+        "text2": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">De f&aacute;cil instalaci&oacute;n</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se env&iacute;an como kits con el hardware y el firmware necesarios.",
+          "editable": true,
+          "required": false
+        },
+        "image2": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
+          "editable": true,
+          "required": false,
+          "isTransparent": false
+        }
+      },
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
+    },
+    component_7: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura.",
+        },
+        "image1": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/755f5b44d917eba05049d74b93dda52528e84683",
+        },
+        "text2": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Soporte T&eacute;cnico y Garant&iacute;as de Dell</span></h4>\nConserve el soporte t&eacute;cnico y las garant&iacute;as de Dell - que no son compatibles con sistemas con actualizaciones de terceros.",
+        },
+        "image2": {
+          "type": "image",
+          "value": "https://story.icecat.biz/objects/19b67a0a9eda889d19330b256d5cc6ae795c4d16",
+        }
+      },
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
+    },
+    component_8: {
+      data: {
+        "video": {
+          "type": "video",
+          "value": "https://story.icecat.biz/objects/a7675bd8161adf3c87218a9f8f2caeca84c0b797",
+          "poster": "https://story.icecat.biz/objects/1fa316383f2ca14991f2cd051b1f7466c6a95b21"
+        }
+      },
+      petStoryComponentId: '6294a78f55130c040de74768',
+      decorators: [
+        {
+          "target": "wrapper",
+          "entity": "video",
+          "attrs": {
+            "xs": [
+              "autoplay",
+              "loop"
+            ]
+          }
+        }
+      ]
+    },
+    component_9: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d'
+    },
+    component_10: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d'
+    }
+
+  },
 }
 
 export const memory = {
@@ -2153,7 +2578,7 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -2289,6 +2714,25 @@ export const memory = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
+    component_13: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
   },
   es: {
     component_1: {
@@ -2349,7 +2793,7 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -2485,6 +2929,25 @@ export const memory = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
+    component_13: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
   },
   uk: {
     component_1: {
@@ -2563,7 +3026,7 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_6: {
       data: {
@@ -2719,6 +3182,25 @@ export const memory = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
+    component_14: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
   },
   fr: {
     component_1: {
@@ -2779,7 +3261,7 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -2939,6 +3421,25 @@ export const memory = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
+    component_13: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
   },
   de: {
     component_1: {
@@ -2999,7 +3500,7 @@ export const memory = {
           "value": "",
         }
       },
-      petStoryComponentId: '628e892bb727fbdbc89f3a78'
+      petStoryComponentId: '633bd7038356651ec5000b93'
     },
     component_5: {
       data: {
@@ -3159,5 +3660,239 @@ export const memory = {
       },
       petStoryComponentId: '628e8bd72055a308831322d6'
     },
-  }
+    component_13: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+  },
+  mx: {
+    component_1: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_2: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        },
+        "image": {
+          "type": "image",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628e8bd72055a308831322d6'
+    },
+    component_3: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Medios</h4>",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_4: {
+      data: {
+        "image": {
+          "type": "image",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '633bd7038356651ec5000b93'
+    },
+    component_5: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Por qué debería comprar una actualización de Dell en lugar de la de un tercero?</h4>",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_6: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Piezas de grado OEM de Nivel 1 probadas y verificadas</span></h4>\nGarantiza la compatibilidad con servidores, almacenamiento y redes de Dell.",
+        },
+        "image1": {
+          "type": "image",
+          "value": "https://story.icecat.biz/images/3fcc666246af3abf9b44f49002e65052db805bae",
+        },
+        "text2": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">De fácil instalación</span></h4>\nAhorre tiempo con las actualizaciones de Dell que se envían como kits con el hardware y el firmware necesarios.",
+        },
+        "image2": {
+          "type": "image",
+          "value": "https://story.icecat.biz/images/55dca7b7effb0ce3d732ebc7401f94e95d830cfa",
+        }
+      },
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
+    },
+    component_7: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Enfoque en Cadenas de Suministro Segura</span></h4>\nProteja los datos y la integridad del sistema con piezas provenientes de una cadena suministro segura.",
+        },
+        "image1": {
+          "type": "image",
+          "value": "https://story.icecat.biz/images/755f5b44d917eba05049d74b93dda52528e84683"
+        },
+        "text2": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Soporte Técnico y Garantías de Dell</span></h4>\nConserve el soporte técnico y las garantías de Dell - que no son compatibles con sistemas con actualizaciones de terceros.",
+        },
+        "image2": {
+          "type": "image",
+          "value": "https://story.icecat.biz/images/19b67a0a9eda889d19330b256d5cc6ae795c4d16"
+        }
+      },
+      petStoryComponentId: '6703ad8741fd3dfcaf1846cb'
+    },
+    component_8: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d'
+    },
+    component_9: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Tipos de DIMMS de Memoria</h4>"
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_10: {
+      data: {
+        "text1": {
+          "type": "text",
+          "value": "<h4><span style=\"color: #0274c7;\">Con más memoria, el servidor puede leer, escribir y realizar datos e instrucciones más rápido.</span></h4>\nExisten tres tipos DIMMS de memoria disponsibles para servidores. Estos tipos de DIMMs no se pueden mezclar en un solo sistema. Debe seleccionar el tipo de DIMM apropiado para su carga de trabajo el momento de la compra.",
+        },
+        "text2": {
+          "type": "text",
+          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>DIMM sin búfer:</strong> <span style=\"color: #000000;\">UDIMM, un DIMM sin búfer, de baja densidad y latencia que no incluye un registro o chip de búfer. Los UDIMM se usan generalmente en aplicaciones que requieren latencia más baja posible.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>DIMM registrado:</strong> <span style=\"color: #000000;\">RDIMM, es un DIMM registrado que proporciona alta integridad de señal con comprobación de paridad para detectar direcciones o comandos incorrectos, y un mayor rendimiento para cargas de trabajo pesados.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>DIMMs se carga reducida:</strong> <span style=\"color: #000000;\">LRDIMM, un DIMM que utiliza in búfer para reducir la carga de memoria a una sola carga en todas las señales DDR, lo que permite una mayor densidad.</span></span></li>\n</ul>",
+        }
+      },
+      petStoryComponentId: '633b054c8356651ec5fffd64'
+    },
+    component_11: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<h4>Pruebas de Memoria</h4>"
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+    component_12: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "<ul>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Quemado:</strong> <span style=\"color: #000000;\">Pruebas de tensión mientras estén encendidas (es decir aumento de temperatura) para eliminar componentes deficientes.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Prueba de Componente:</strong> <span style=\"color: #000000;\">Pruebas de diagnóstico especificas del proveeder de memoria realizadas a nivel componente DRAM para garantizar la funcionalidad.<br><br></span></span></li>\n<li style=\"color: #0274c7;\"><span style=\"color: #0274c7;\"><strong>Prueba de Módulo:</strong> <span style=\"color: #000000;\">Pruebas de diagnóstico especificas del proveedor de memoria realizadas a nivel DIMM para garantizar la funcionalidad (Con todos los componentes DRAM ya montados en DIMM PCB).</span></span></li>\n</ul>",
+        },
+        "image": {
+          "type": "image",
+          "value": "https://story.icecat.biz/images/4c90260706e57174a11813fdd0a4d329eec07a1f"
+        }
+      },
+      petStoryComponentId: '628e8bd72055a308831322d6'
+    },
+    component_13: {
+      data: {
+        "text": {
+          "type": "text",
+          "value": "",
+        }
+      },
+      petStoryComponentId: '628f29bd2055a3088313360d',
+      decorators: [
+        {
+          "target": "component",
+          "margins": {
+            "xs": {
+              "bottom": 3
+            }
+          },
+        }
+      ]
+    },
+  },
 }
